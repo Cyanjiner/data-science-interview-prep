@@ -20,6 +20,10 @@
 ## Probability and Statistics
 #### Material: 
 Harvard stats 110 PSU STAT 500
+1. [Seeing Theory](https://seeing-theory.brown.edu/)
+2. [Harvard STAT110](https://projects.iq.harvard.edu/stat110/youtube)
+3. [PSU STAT 500](https://online.stat.psu.edu/stat500/)
+4. [Google A/B Testing on Udacity](https://www.udacity.com/course/ab-testing--ud257)
 
 ## SQL
 #### Tutorials:
