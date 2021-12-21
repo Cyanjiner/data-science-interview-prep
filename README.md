@@ -2,9 +2,9 @@
 
 ## Machine Learning
 ### Material:
-    1. [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning)
-    2. [Machine Learning Specialization, by University of Washington on Coursera](https://www.coursera.org/specializations/machine-learning)
-    
+1. [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning)
+2. [Machine Learning Specialization, by University of Washington on Coursera](https://www.coursera.org/specializations/machine-learning)
+### Top ML questions topics
 * **Linear Regression** (L1, L2, ElasticNet, Polynomial, Time Series, Seasonal, R square, adj-R, F-statistics)
 * **Logistic Regression** (Sigmoid, Maximum-Likelihood, Pseudo-R)
 * **Tree** (CART, Regression Tree, Ensemble, XGB, GBM, AdaBoost, RandomForest, Entropy, Gini, Missing Value, Feature Importance, Pruning, Regularization)
